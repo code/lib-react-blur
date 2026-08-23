@@ -1,0 +1,6 @@
+allowBuilds:
+  core-js: false
+  fsevents: false
+updateConfig:
+  ignoreDependencies:
+    - eslint

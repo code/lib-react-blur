@@ -21,7 +21,7 @@ import ReactBlur from 'react-blur';
 const Blur = ReactBlur.default || ReactBlur;
 
 const exampleCode = `
-// npm install react-blur
+// pnpm add react-blur
 import Blur from 'react-blur'
 [...]
 <Blur blurRadius={5} img={'path.jpg'} />

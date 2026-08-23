@@ -7,7 +7,7 @@ React component for creating blurred backgrounds using canvas.
 ## Installation
 
 ```js
-npm install react-blur --save
+pnpm add react-blur
 ```
 
 ## Usage
