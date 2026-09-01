@@ -1,6 +1,6 @@
 {
   "name": "react-blur",
-  "version": "1.0.3",
+  "version": "1.1.1",
   "packageManager": "pnpm@11.21.0",
   "description": "React component for creating blurred backgrounds.",
   "main": "dist/blur.js",
@@ -25,7 +25,7 @@
   "author": "hi@javier.xyz",
   "license": "BSD-3-Clause",
   "peerDependencies": {
-    "react": "^16.8.2"
+    "react": ">=16.8 <20"
   },
   "dependencies": {
     "prop-types": "^15.8.1"
